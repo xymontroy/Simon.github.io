@@ -75796,7 +75796,7 @@ var s=this.fr$
 if(s!=null)s.a3()}}
 A.FW.prototype={
 K(a){var s=null
-return A.ak0(!0,new A.tQ(2,new A.vD(s),s),A.qx(s,B.fi,s),"Notes App")}}
+return A.ak0(!0,new A.tQ(2,new A.vD(s),s),A.qx(s,B.fi,s),"NotesApp")}}
 A.vD.prototype={
 al(){var s=t.tS
 return new A.Ms(A.b([],s),A.b([],s),B.k)}}
@@ -75874,7 +75874,7 @@ A.pB(this.c,!1).t5(null)},
 $S:0}
 A.FV.prototype={}
 A.FL.prototype={
-K(a){return A.ak0(!1,new A.FW(null),A.qx(null,B.fi,null),"My Flutter App")}}
+K(a){return A.ak0(!1,new A.FW(null),A.qx(null,B.fi,null),"My Notes App")}}
 A.b2.prototype={
 br(a){var s=a.a,r=this.a
 r[15]=s[15]
